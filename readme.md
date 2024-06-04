@@ -22,4 +22,4 @@ You will only get 100 if the entire QR program passes GitHub actions, so you wil
 11. Test making,  retrieving, and deleting QR codes on the spec page.
 
 ### Screenshot(s)
-- Adding later.
+![Image in ck378 Docker Hub account](/images/image.png)
